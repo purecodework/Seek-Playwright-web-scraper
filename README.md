@@ -27,7 +27,7 @@ Follow these steps to get the application up and running on your local machine:
 
 ```bash
 # From the root directory, Navigate to the frontend project directory
-cd
+cd Seek-Playwright-web-scraper
 
 # Install dependencies
 yarn
