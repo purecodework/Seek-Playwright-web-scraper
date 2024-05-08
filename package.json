@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "playwright": "^1.44.0"
+  },
+  "name": "Seek-Playwright-web-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
